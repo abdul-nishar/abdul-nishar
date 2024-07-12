@@ -1,7 +1,5 @@
 # Hi there, I'm Sheikh Abdul Nishar! 👋
 
-![That's me]()
-
 ## About Me 🚀
 
 I'm a passionate Software Developer with primary focus on web development with experience in C++, Javascript and Python. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
