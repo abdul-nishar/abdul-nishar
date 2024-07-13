@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate Software Developer with primary focus on web development with experience in C++, Javascript and Python. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate and flexible Software Developer who focuses mostly on web development with experience in C++, Javascript and Python. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 ⚡️ Fun fact: I love travelling as much as I like programming, which is a lot.
 
@@ -47,17 +47,30 @@ const abdul = {
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Wanderer]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**Wanderer** is a **[brief project description]** built with **[technologies used]**.
 
-### [Project 2 Title](project_2_link)
+- Executed the planning and development of a location-based website, showcasing my ability to strategically plan and implement projects. This resulted in users being able to retrieve area-specific data on landmarks within a specified radius, leading to a 40% increase in user engagement.
+- Elevated user satisfaction by integrating a custom Google search feature. This demonstrates my focus on enhancing the user experience by providing instant access to images and Wiki-data, which led to a 15% reduction in search time for users.
+- Implemented a Model-View-Controller (MVC) Architecture, which showcases my skills in designing efficient and maintainable software architectures. This approach streamlined the user interface and underlying data models, resulting in a 65% decrease in development time for new feature additions.
+
+You can check out the repository [here](project_1_repository_link).
+
+### [LiReddit - Reddit Clone]()
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**LiReddit** is a **[brief project description]** built with **[technologies used]**.
+
+- Engineered backend functionalities, including user authentication and post management. This demonstrated my proficiency in developing scalable backend systems, capable of handling 1-2k users concurrently.
+- Implemented responsive frontend components using ChakraUI, a framework of React.js. This highlights my skills in ensuring a seamless user experience across different devices and browsers.
+- Conducted rigorous testing procedures, reducing bugs by 12% and enhancing overall platform stability. This reflects my attention to detail and commitment to delivering stable and reliable software.
+- Improved declarative data fetching with GraphQL and significantly reduced bugs by 20% using TypeGraphQL. This showcases my ability to leverage advanced technologies to enhance data management and application performance.
+
+You can check out the repository [here](project_2_repository_link).
 
 ## Get in Touch 📬
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-abdul-nishar-3009ba156/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-abdul-nishar-3009ba156)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdul_nisar_007/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheikhabdul285@gmail.com)
 
