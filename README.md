@@ -43,11 +43,9 @@ const abdul = {
 
 ## Featured Projects 💻
 
-### [Wanderer]()
+### Wanderer
 
-![Project 1 Screenshot](project_1_screenshot_url)
-
-**Wanderer** is a web application that helps users discover landmarks and places of interest. It utilizes various APIs to fetch location details, images, and related information, providing a comprehensive guide to explore new places. It is built with HTML, CSS, Vanilla JS and some APIs.
+**Wanderer** is a web application that helps users discover landmarks and places of interest. It utilizes various APIs to fetch location details, images, and related information, providing a comprehensive guide to explore new places.
 
 - Developed Wanderer, a web application providing users with detailed information and images for over 1,000 landmarks by integrating Geoapify and Google Custom Search APIs.
 ​​- Created a responsive UI with real-time search, handling up to 500 concurrent searches with pagination and bookmarking and utilized modular JavaScript with ES6 syntax, reducing codebase size by 30%.
