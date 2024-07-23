@@ -43,30 +43,29 @@ const abdul = {
 
 ## Featured Projects 💻
 
-### Wanderer
+### ⭐️Wanderer
 
 **Wanderer** is a web application that helps users discover landmarks and places of interest. It utilizes various APIs to fetch location details, images, and related information, providing a comprehensive guide to explore new places.
 
-- Developed Wanderer, a web application providing users with detailed information and images for over 1,000 landmarks by integrating Geoapify and Google Custom Search APIs.
-​​- Created a responsive UI with real-time search, handling up to 500 concurrent searches with pagination and bookmarking and utilized modular JavaScript with ES6 syntax, reducing codebase size by 30%.
-- Managed environment variables securely using dotenv, ensuring protection of API keys.
-- Enhanced user experience with comprehensive error handling, reducing user-reported issues by 40%.
-- Improved code maintainability and collaboration by writing over 100 JSDoc comments and detailed documentation.
+>- **Developed** Wanderer, a web application providing users with detailed information and images for over **1,000** landmarks by integrating Geoapify and Google Custom Search APIs.
+>- **Created** a responsive UI with real-time search, handling up to **500** concurrent searches with pagination and bookmarking and utilized modular JavaScript with ES6 syntax, reducing codebase size by **30%**.
+>- **Managed** environment variables securely using dotenv, ensuring protection of API keys.
+>- **Enhanced** user experience with comprehensive error handling, reducing user-reported issues by **40%**.
+>- **Improved** code maintainability and collaboration by writing over **100** JSDoc comments and detailed documentation.
 
 You can check out the repository [here](https://github.com/abdul-nishar/Wanderer).
 
-### [LiReddit - Reddit Clone]()
+### ⭐️MovieStore-API
 
-![Project 2 Screenshot](project_2_screenshot_url)
+**MovieStore-API** is a RESTful API for managing movies, user watchlists, and reviews. It supports CRUD operations for movies and allows users to create and manage their watchlists and reviews.
 
-**LiReddit** is a **[brief project description]** built with **[technologies used]**.
+>- **Developed a RESTful API** with Node.js and Express.js, handling over **100,000** movie records and supporting **100+** concurrent users.
+>- **Implemented JWT-based user authentication and authorization**, resulting in secure access control for over **500** users.
+>- **Integrated MongoDB with Mongoose**, creating **5 primary schemas** for movies, users, reviews, and watchlists, and achieving **95%** data retrieval efficiency.
+>- **Enhanced API reliability** with robust error handling and validation, reducing **bug reports by 30%** during initial testing phases.
+>- **Created comprehensive API documentation** that reduced integration time for front-end developers by **40%**.
 
-- Engineered backend functionalities, including user authentication and post management. This demonstrated my proficiency in developing scalable backend systems, capable of handling 1-2k users concurrently.
-- Implemented responsive frontend components using ChakraUI, a framework of React.js. This highlights my skills in ensuring a seamless user experience across different devices and browsers.
-- Conducted rigorous testing procedures, reducing bugs by 12% and enhancing overall platform stability. This reflects my attention to detail and commitment to delivering stable and reliable software.
-- Improved declarative data fetching with GraphQL and significantly reduced bugs by 20% using TypeGraphQL. This showcases my ability to leverage advanced technologies to enhance data management and application performance.
-
-You can check out the repository [here](project_2_repository_link).
+You can check out the repository [here](https://github.com/abdul-nishar/MovieStore-API).
 
 ## Get in Touch 📬
 
