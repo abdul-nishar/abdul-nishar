@@ -47,13 +47,15 @@ const abdul = {
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**Wanderer** is a **[brief project description]** built with **[technologies used]**.
+**Wanderer** is a web application that helps users discover landmarks and places of interest. It utilizes various APIs to fetch location details, images, and related information, providing a comprehensive guide to explore new places. It is built with HTML, CSS, Vanilla JS and some APIs.
 
-- Executed the planning and development of a location-based website, showcasing my ability to strategically plan and implement projects. This resulted in users being able to retrieve area-specific data on landmarks within a specified radius, leading to a 40% increase in user engagement.
-- Elevated user satisfaction by integrating a custom Google search feature. This demonstrates my focus on enhancing the user experience by providing instant access to images and Wiki-data, which led to a 15% reduction in search time for users.
-- Implemented a Model-View-Controller (MVC) Architecture, which showcases my skills in designing efficient and maintainable software architectures. This approach streamlined the user interface and underlying data models, resulting in a 65% decrease in development time for new feature additions.
+- Developed Wanderer, a web application providing users with detailed information and images for over 1,000 landmarks by integrating Geoapify and Google Custom Search APIs.
+​​- Created a responsive UI with real-time search, handling up to 500 concurrent searches with pagination and bookmarking and utilized modular JavaScript with ES6 syntax, reducing codebase size by 30%.
+- Managed environment variables securely using dotenv, ensuring protection of API keys.
+- Enhanced user experience with comprehensive error handling, reducing user-reported issues by 40%.
+- Improved code maintainability and collaboration by writing over 100 JSDoc comments and detailed documentation.
 
-You can check out the repository [here](project_1_repository_link).
+You can check out the repository [here](https://github.com/abdul-nishar/Wanderer).
 
 ### [LiReddit - Reddit Clone]()
 
