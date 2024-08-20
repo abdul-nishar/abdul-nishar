@@ -8,10 +8,10 @@ I'm a passionate and flexible Software Developer who focuses mostly on web devel
 
 ```js
 const abdul = {
-  languages: ["CPP", "Python", "Javascript", "GraphQL", "C", "English", "Hindi", "Japanese"],
-  libraries_and_frameWorks: ["React", "Redux", "Node", "Express", "ChakraUI", "Apollo Server", "TypeGraphQL", "jQuery", "Tailwind CSS", "SvelteKit", "Bootstrap"],
+  languages: ["JavaScript", "C++", "Python", "C", "GraphQL", "TypeScript", "English", "Hindi", "Japanese"],
+  libraries_and_frameWorks: ["React", "Redux", "Node", "Express", "ChakraUI", "TypeGraphQL", "jQuery", "Tailwind CSS", "SvelteKit", "Bootstrap", "MikroORM", "MaterialUI"],
   databases: ["MySQL", "MongoDB", "PostgreSQL", "Redis"],
-  tools: ["MVC Pattern", "MikroORM", "NPM"],
+  tools: ["Git", "Bash", "PostMan", "Docker", "Apollo Server", "NPM"],
   currently_learning: ["DSA", "GSAP", "TypeScript"]
 };
 ```
@@ -41,6 +41,8 @@ const abdul = {
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/Svelte%20Kit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=fff)
 
 ## Featured Projects 💻
 
