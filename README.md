@@ -9,7 +9,7 @@ I'm a passionate and flexible Software Developer who focuses mostly on web devel
 ```js
 const abdul = {
   languages: ["CPP", "Python", "Javascript", "GraphQL", "C", "English", "Hindi", "Japanese"],
-  libraries_and_frameWorks: ["React", "Redux", "Node", "Express", "ChakraUI", "Apollo Server", "TypeGraphQL", "jQuery"],
+  libraries_and_frameWorks: ["React", "Redux", "Node", "Express", "ChakraUI", "Apollo Server", "TypeGraphQL", "jQuery", "Tailwind CSS", "SvelteKit", "Bootstrap"],
   databases: ["MySQL", "MongoDB", "PostgreSQL", "Redis"],
   tools: ["MVC Pattern", "MikroORM", "NPM"],
   currently_learning: ["DSA", "GSAP", "TypeScript"]
@@ -40,6 +40,7 @@ const abdul = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/Svelte%20Kit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
 ## Featured Projects 💻
 
