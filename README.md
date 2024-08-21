@@ -70,6 +70,27 @@ You can check out the repository [here](https://github.com/abdul-nishar/Wanderer
 
 You can check out the repository [here](https://github.com/abdul-nishar/MovieStore-API).
 
+### ⭐️Sorting Visualizer
+
+**Sorting Visualizer** is an interactive educational tool designed to help users understand and compare various sorting algorithms. It allows users to visually observe how different algorithms sort data in real-time, providing a clear and dynamic representation of each step in the process.
+
+>- **Developed** web app to demonstrate and compare **sorting algorithms** with real-time **visualisation**.
+>- **Utilised React hooks** for **state management** and smooth execution, preventing conflicts and ensuring accuracy.
+>- **Designed** a **responsive** interface with **Material-UI** and used **Git** for **version control** and **project management**.
+
+You can check out the repository [here](https://github.com/abdul-nishar/Sorting-Visualizer).
+
+### ⭐️TopicSphere
+
+**TopicSphere** is a platform where users can discover, discuss, and share topics, offering dynamic content, personalized recommendations, and interactive features to boost user engagement.
+
+>- **Engineered** backend with authentication and post management, scaling to handle **1-2k** concurrent users.
+>- **Developed responsive frontend with ChakraUI**, ensuring seamless **cross-device/browser** experience.
+>- **Conducted** rigorous testing, **reducing bugs by 12%** and enhancing platform stability and performance.
+>- **Improved** declarative data fetching with **GraphQL** and reduced bugs by **20%** using **TypeGraphQL**.
+
+You can check out the repository [here](https://github.com/abdul-nishar/TopicSphere).
+
 ## Get in Touch 📬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-abdul-nishar-3009ba156)
