@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate and flexible Software Developer who focuses mostly on web development with experience in C++, Javascript and Python. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a dedicated and adaptable Software Developer specializing in web development, with expertise in C++, JavaScript, and Python. I thrive on solving complex challenges, continuously learning new skills, and collaborating with diverse teams to deliver innovative solutions.
 
 ⚡️ Fun fact: I love travelling as much as I like programming, which is a lot.
 
