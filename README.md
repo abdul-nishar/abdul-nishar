@@ -16,6 +16,12 @@ const abdul = {
 };
 ```
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-nishar&hide_rank=true&custom_title=Github-Stats&exclude_days=Sun%2CSat&hide=contribs,stars,issues&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-nishar&layout=compact&show_icons=true&theme=transparent&langs_count=8&card_width=320" />
+</a>
 
 ## My Skills 🧠
 
