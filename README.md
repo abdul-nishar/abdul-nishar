@@ -1,4 +1,4 @@
-# Hi there, I'm Sheikh Abdul Nishar! 👋
+# Hi there, I'm Sheikh Abdul Nishar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ## About Me 🚀
 
